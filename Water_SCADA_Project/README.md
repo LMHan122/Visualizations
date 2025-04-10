@@ -1,4 +1,4 @@
-#Project Overview - Water Sensor Data Trends - 2014
+# Project Overview - Water Sensor Data Trends - 2014
 
 This interactive Tableau dashboard visualizes key trends and anomalies from a SCADA-based water sensor system. The goal is to provide actionable insights into operational performance, water flow, and equipment behavior to support preventative maintenance and improve system reliability.
 The dashboard simulates how a utility operator or engineer might monitor sensor data in real-time to identify irregularities—such as pressure drops, flow fluctuations, or out-of-range readings—that could indicate equipment wear, leaks, or efficiency issues.
@@ -20,4 +20,8 @@ This file contains real-time SCADA measurements from a simulated city water netw
 - **Inlet and outlet pressures** (`P_J#`)  
 
 These variables represent standard telemetry used in municipal water systems and were ideal for developing a sensor monitoring dashboard.
+
+## Data Preparation and Transformation 
+
+
 
