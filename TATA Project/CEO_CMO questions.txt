@@ -1,0 +1,42 @@
+CEO
+1. Which countries contribute the highest total revenue, and what is the average order value per country?
+2. What are the trends in yearly customer retention rates by region?
+3. Which customer segments have shown the highest growth in purchasing frequency over time?
+4. Are there patterns in sales data may suggest potential operational bottlenecks?
+
+CMO
+1. Which product stock codes generate the highest total revenue and how does that differ by region and customer?
+2. What are the most common characteristics of customers that generate the most profit?
+3. Which products are most frequently purchased in each region?
+4. How does product demand vary by time of year across different regions?
+
+
+
+
+
+CEO
+What are the total number of customers for each country?
+For each country, what's the average customer retention rate and how does that compare to the overall average?
+How many customer operate in multiple regions?
+Which customers show the largest increase in orders quarterly?
+
+
+
+CMO
+Which products have the highest ROI?
+Does product ROI vary by region?
+How does profitability vary customer?
+
+
+CEO
+1. Which countries contribute the highest total revenue, and what is the average order value per country?
+2. What are the trends in yearly customer retention rates by region?
+3. Which customer segments have shown the highest growth in purchasing frequency over time?
+4. Are there patterns in sales data may suggest potential operational bottlenecks?
+
+CMO
+1. Which product stock codes generate the highest total revenue and how does that differ by region and customer?
+2. What are the most common characteristics of customers that generate the most profit?
+3. Which products are most frequently purchased in each region?
+4. How does product demand vary by time of year across different regions?
+
